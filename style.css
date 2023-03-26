@@ -1,0 +1,180 @@
+@font-face {
+    font-family: Glaho;
+    src: url(../assets/fonts/glaho.ttf);
+}
+
+@font-face {
+    font-family: arial;
+    src: url(../assets/fonts/arial_geo.ttf);
+}
+
+body {
+    font-family: Glaho;
+}
+
+nav {
+    position: relative;
+    top: 0px;
+    left: 2px;
+    width: 1440px;
+    height: 145px;
+    background-color: #8BE8F5;
+
+}
+
+nav, ul, li {
+position: absolute;
+display: inline-block;
+
+}
+
+.el1 {
+    color: #F90909;
+    font-weight: bold;
+    font-size: 32px;
+    left: 650px;
+    top: 54px;
+    width: 156px;
+    height: 42px;
+
+
+
+}
+
+.el2 {
+
+    color: #FFEF5E;
+    font-weight: bold;
+    font-size: 32px;
+    left: 900px;
+    top: 54px;
+    width: 156px;
+    height: 42px;
+
+
+}
+
+.el3{
+
+    color: #FFEF5E;
+    font-weight: bold;
+    font-size: 32px;
+    left: 1150px;
+    top: 54px;
+    width: 156px;
+    height: 42px;
+
+
+}
+
+.logo {
+
+
+    position: absolute;
+    font-size: 25px;
+    left: 118px;
+    top: 50px;
+    width: 150px;
+    height: 48px;
+
+}
+
+main {
+    left: 0px;
+    top: 147px;
+    width: 1441px;
+    height: 700px;
+    fill: solid;
+    background-color: rgba(242, 155, 244, 0.37);
+
+}
+
+h1 {
+    position: absolute;
+    font-weight: bold;
+    color: #750606;
+    left: 118px;
+    top: 175px;
+    width: 548px;
+    height: 45px;
+    font-size: 32px;
+    vertical-align: top;
+
+}
+
+h2 {
+
+    position: absolute;
+    font-family: arial;
+    width: 1203px;
+    height: 268px;
+    left: 118px;
+    top: 275px;
+    line-height: 40px;
+    font-size: 24px;
+    align: left;
+    vertical-align: top;
+    font-style: italic;
+    color: #410E0E;
+    padding-bottom: 25px;
+
+
+
+
+}
+
+.img1 {
+
+    left: 118px;
+    top: 100px;
+    width: 361px;
+    height: 253px;
+    color: #EE4036;
+    font-family: arial;
+    font-style: italic;
+
+}
+
+.img2 {
+    left: 540px;
+    top: 100px;
+    width: 361px;
+    height: 253px;
+    color: #EE4036;
+    font-family: arial;
+    font-style: italic;
+
+}
+
+.img3{
+    left: 960px;
+    top: 100px;
+    width: 361px;
+    height: 253px;
+    color: #EE4036;
+    font-family: arial;
+    font-style: italic;
+
+}
+
+
+
+footer {
+    display: flex;
+    position: relative;
+    background-color: #FFEF5E;
+    left: 0px;
+    top: 450px;
+    width: 1440px;
+    height: 122px;
+
+
+}
+
+div {
+    position: absolute;
+    color: #0FA958;
+    top: 45%;
+    left: 45%;
+
+}
