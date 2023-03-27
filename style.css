@@ -1,11 +1,11 @@
 @font-face {
     font-family: Glaho;
-    src: url(../assets/fonts/glaho.ttf);
+    src: url(glaho.ttf);
 }
 
 @font-face {
     font-family: arial;
-    src: url(../assets/fonts/arial_geo.ttf);
+    src: url(arial_geo.ttf);
 }
 
 body {
