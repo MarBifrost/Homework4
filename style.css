@@ -5,12 +5,9 @@
 
 @font-face {
     font-family: arial;
-    src: url(aria_geo.ttf);
+    src: url(arial_geo.ttf);
 }
 
-body {
-    font-family: Glaho;
-}
 
 nav {
     position: relative;
@@ -29,6 +26,7 @@ display: inline-block;
 }
 
 .el1 {
+    font-family: Glaho;
     color: #F90909;
     font-weight: bold;
     font-size: 32px;
@@ -42,7 +40,7 @@ display: inline-block;
 }
 
 .el2 {
-
+    font-family: Glaho;
     color: #FFEF5E;
     font-weight: bold;
     font-size: 32px;
@@ -55,7 +53,7 @@ display: inline-block;
 }
 
 .el3{
-
+    font-family: Glaho;
     color: #FFEF5E;
     font-weight: bold;
     font-size: 32px;
@@ -90,6 +88,7 @@ main {
 }
 
 h1 {
+    font-family: arial;
     position: absolute;
     font-weight: bold;
     color: #750606;
